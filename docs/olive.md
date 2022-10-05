@@ -5,7 +5,7 @@ Network Share Mapping Requirements:
 1. G drive
 2. I drive
 
-Cerner reports:
+Cerner CSV (comma-separated values) reports:
 
 1. Census report
 2. Clinical Reviews report
