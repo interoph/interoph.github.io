@@ -1,3 +1,3 @@
 layout: page
 title: "Olive Worklist"
-permalink: /medstar/olive/
+permalink: /about/olive/
