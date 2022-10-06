@@ -6,15 +6,15 @@ Requirements:
 
 1. Network Share Mapping Requirements:
 
-a. crm (\\Whcefs01v) (G:)
-b. PSSIDX_Share (\\pmhapoai46v) (I:)
+   - crm (\\Whcefs01v) (G:)
+   - PSSIDX_Share (\\pmhapoai46v) (I:)
 
 2. Cerner CSV (comma-separated values) reports:
 
-a. Census report
-b. Clinical Reviews report
+   - Census report
+   - Clinical Reviews report
 
-Excel Macro:
+3. Excel Macro:
 
-a. Location: PSSIDX_Share (\\pmhapoai46v) (I:)
+   - Location: PSSIDX_Share (\\pmhapoai46v) (I:)
 
