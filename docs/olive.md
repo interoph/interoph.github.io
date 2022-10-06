@@ -4,17 +4,17 @@ Olive Worklist Documentation: How to generate worklist manually
 
 Requirements:
 
-Network Share Mapping Requirements:
+1. Network Share Mapping Requirements:
 
-1. G drive
-2. I drive
+a. crm (\\Whcefs01v) (G:)
+b. PSSIDX_Share (\\pmhapoai46v) (I:)
 
-Cerner CSV (comma-separated values) reports:
+2. Cerner CSV (comma-separated values) reports:
 
-1. Census report
-2. Clinical Reviews report
+a. Census report
+b. Clinical Reviews report
 
 Excel Macro:
 
-1. XYZ
+a. Location: PSSIDX_Share (\\pmhapoai46v) (I:)
 
