@@ -6,8 +6,8 @@ Requirements:
 
 1. Network Share Mapping Requirements:
 
-   - crm (\\Whcefs01v) (G:)
-   - PSSIDX_Share (\\pmhapoai46v) (I:)
+   - crm (\\Whcefs01v) (mapped to G:)
+   - PSSIDX_Share (\\pmhapoai46v) (mapped to I:)
 
 2. Cerner CSV (comma-separated values) reports:
 
